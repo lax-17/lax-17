@@ -29,9 +29,8 @@ I'm an MSc Artificial Intelligence student at Sheffield Hallam University with a
 ---
 
 ### 📫 Let's Connect
-- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/laxmikant-nishad/)
 - 📧 laxmikant.data@gmail.com
-- 🌐 [Portfolio (coming soon)](https://yourportfolio.site)
 
 ---
 
